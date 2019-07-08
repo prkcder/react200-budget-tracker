@@ -1,7 +1,3 @@
-// import ExpenseEntries from './ExpenseEntries';
-
-// export default ExpenseEntries;
-
 import { connect } from 'react-redux';
 import ExpenseEntries from './ExpenseEntries';
 
